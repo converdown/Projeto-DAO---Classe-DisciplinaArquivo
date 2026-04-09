@@ -1,5 +1,4 @@
-package main
-;
+package main;
 
 import dao.DisciplinaDAOImp;
 import entidade.Disciplina;

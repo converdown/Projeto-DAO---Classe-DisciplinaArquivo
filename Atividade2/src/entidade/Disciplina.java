@@ -3,6 +3,7 @@ package entidade;
 import java.util.Objects;
 
 public class Disciplina {
+	
 
     private Integer idDisciplina;
     private String nomeDisciplina;
